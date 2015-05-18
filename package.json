@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ywo/ywo-ftps/issues"
   },
-  "homepage": "https://github.com/ywo/ywo-ftps"
+  "homepage": "https://github.com/ywo/ywo-ftps",
+  "devDependencies": {
+    "lodash": "^3.8.0"
+  }
 }
